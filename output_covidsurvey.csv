@@ -1,0 +1,489 @@
+country,Peak,Year,Total number of cases reported for the peak month
+Afghanistan,July,2021,1384575.0
+Afghanistan,June,2020,551209.0
+Albania,December,2020,689020.0
+Albania,March,2021,1062528.0
+Algeria,December,2020,900314.0
+Algeria,July,2021,1303273.0
+Andorra,January,2021,22674.0
+Andorra,October,2020,32054.0
+Angola,December,2020,209578.0
+Angola,June,2021,160328.0
+Anguilla,December,2020,92.0
+Anguilla,May,2021,756.0
+Antigua And Barbuda,July,2020,721.0
+Antigua And Barbuda,March,2021,11319.0
+Argentina,May,2021,9582105.0
+Argentina,October,2020,4877699.0
+Armenia,April,2021,487856.0
+Armenia,November,2020,1032184.0
+Aruba,January,2021,14187.0
+Aruba,September,2020,36928.0
+Australia,August,2020,191939.0
+Australia,July,2021,38442.0
+Austria,April,2021,894814.0
+Austria,November,2020,1947070.0
+Azerbaijan,April,2021,871901.0
+Azerbaijan,December,2020,1672593.0
+Bahamas,January,2021,41914.0
+Bahamas,October,2020,66218.0
+Bahrain,May,2021,560131.0
+Bahrain,September,2020,171456.0
+Bangladesh,August,2020,3350095.0
+Bangladesh,July,2021,4043091.0
+Barbados,April,2020,1421.0
+Barbados,February,2021,14981.0
+Belarus,January,2021,454992.0
+Belarus,June,2020,662248.0
+Belgium,April,2021,3578963.0
+Belgium,November,2020,9028508.0
+Belize,December,2020,79020.0
+Belize,January,2021,15262.0
+Benin,July,2020,24728.0
+Benin,March,2021,27558.0
+Bermuda,April,2021,22146.0
+Bermuda,December,2020,4832.0
+Bhutan,June,2021,9422.0
+Bhutan,September,2020,2223.0
+Bolivia,August,2020,1729835.0
+Bolivia,June,2021,1978032.0
+Bosnia And Herzegovina,April,2021,1034030.0
+Bosnia And Herzegovina,December,2020,974517.0
+Botswana,July,2021,271629.0
+Botswana,October,2020,102061.0
+Brazil,April,2021,36131566.0
+Brazil,August,2020,23487505.0
+British Virgin Islands,July,2021,26827.0
+British Virgin Islands,September,2020,847.0
+Brunei Darussalam,July,2021,837.0
+Brunei Darussalam,March,2020,1533.0
+Bulgaria,April,2021,1915148.0
+Bulgaria,December,2020,2704331.0
+Burkina Faso,December,2020,33723.0
+Burkina Faso,January,2021,55776.0
+Burundi,December,2020,2995.0
+Burundi,July,2021,153880.0
+Cabo Verde,May,2021,79956.0
+Cabo Verde,October,2020,28382.0
+Cambodia,July,2020,1173.0
+Cambodia,May,2021,285762.0
+Cameroon,June,2020,92936.0
+Cameroon,March,2021,178480.0
+Canada,April,2021,2277875.0
+Canada,December,2020,2294157.0
+Caribbean Netherlands,March,2021,8097.0
+Caribbean Netherlands,October,2020,1382.0
+Cayman Islands,January,2021,1224.0
+Cayman Islands,May,2020,1689.0
+Central African Republic,July,2020,93928.0
+Central African Republic,May,2021,36552.0
+Chad,January,2021,18641.0
+Chad,May,2020,7700.0
+Channel Islands,December,2020,23537.0
+Channel Islands,July,2021,56796.0
+Chile,April,2021,1302501.0
+Chile,June,2020,1453777.0
+China,February,2020,1216531.0
+China,January,2021,34501.0
+China Hong Kong Sar,December,2020,35241.0
+China Hong Kong Sar,January,2021,23794.0
+China Macao Sar,April,2020,798.0
+China Macao Sar,July,2021,98.0
+Colombia,August,2020,4760756.0
+Colombia,June,2021,5213228.0
+Comoros,January,2021,16022.0
+Comoros,June,2020,2441.0
+Congo,August,2020,64973.0
+Congo,May,2021,92339.0
+Costa Rica,June,2021,2197169.0
+Costa Rica,November,2020,1397541.0
+Cote D Ivoire,July,2020,173139.0
+Cote D Ivoire,March,2021,91440.0
+Croatia,April,2021,418846.0
+Croatia,December,2020,588414.0
+Cuba,December,2020,30118.0
+Cuba,July,2021,994601.0
+Curacao,April,2021,89483.0
+Curacao,December,2020,51749.0
+Cyprus,December,2020,280869.0
+Cyprus,July,2021,407191.0
+Czech Republic,March,2021,3950730.0
+Czech Republic,November,2020,2257272.0
+Democratic Republic Of The Congo,July,2021,464656.0
+Democratic Republic Of The Congo,June,2020,127909.0
+Denmark,December,2020,981188.0
+Denmark,January,2021,622228.0
+Djibouti,April,2021,35799.0
+Djibouti,June,2020,38854.0
+Dominica,March,2021,397.0
+Dominica,November,2020,672.0
+Dominican Republic,December,2020,999672.0
+Dominican Republic,June,2021,1598555.0
+Ecuador,July,2020,764417.0
+Ecuador,May,2021,947900.0
+Egypt,July,2020,1641262.0
+Egypt,June,2021,1668836.0
+El Salvador,August,2020,331545.0
+El Salvador,July,2021,166266.0
+Equatorial Guinea,July,2020,66448.0
+Equatorial Guinea,March,2021,13694.0
+Eritrea,December,2020,7211.0
+Eritrea,January,2021,20591.0
+Estonia,December,2020,225794.0
+Estonia,March,2021,722969.0
+Ethiopia,April,2021,1654277.0
+Ethiopia,October,2020,1374849.0
+Faeroe Islands,August,2020,2621.0
+Faeroe Islands,July,2021,2142.0
+Falkland Islands Malvinas,December,2020,179.0
+Falkland Islands Malvinas,February,2021,298.0
+Fiji,April,2020,357.0
+Fiji,July,2021,354772.0
+Finland,December,2020,279183.0
+Finland,July,2021,1586070.0
+France,April,2021,19502272.0
+France,November,2020,20177636.0
+French Guiana,July,2020,71956.0
+French Guiana,July,2021,558914.0
+French Polynesia,December,2020,339581.0
+French Polynesia,March,2021,420288.0
+Gabon,July,2020,81971.0
+Gabon,May,2021,95220.0
+Gambia,July,2021,14184.0
+Gambia,September,2020,46996.0
+Georgia,December,2020,734491.0
+Georgia,July,2021,500858.0
+Germany,December,2020,11042927.0
+Germany,January,2021,9888472.0
+Ghana,February,2021,188189.0
+Ghana,June,2020,169097.0
+Gibraltar,December,2020,6774.0
+Gibraltar,January,2021,27377.0
+Greece,April,2021,1021413.0
+Greece,November,2020,757258.0
+Greenland,December,2020,83.0
+Greenland,July,2021,502.0
+Grenada,December,2020,891.0
+Grenada,January,2021,332.0
+Guadeloupe,December,2020,189765.0
+Guadeloupe,July,2021,451548.0
+Guatemala,July,2020,530193.0
+Guatemala,July,2021,913010.0
+Guinea,April,2021,74570.0
+Guinea,May,2020,44732.0
+Guinea Bissau,June,2020,38863.0
+Guinea Bissau,March,2021,19353.0
+Guyana,May,2021,59052.0
+Guyana,October,2020,30251.0
+Haiti,July,2021,172632.0
+Haiti,June,2020,120230.0
+Holy See,December,2020,372.0
+Holy See,January,2021,372.0
+Holy See,March,2021,372.0
+Honduras,December,2020,1841017.0
+Honduras,July,2021,5258230.0
+Hungary,April,2021,7774362.0
+Hungary,December,2020,5583217.0
+Iceland,July,2021,6992.0
+Iceland,October,2020,30732.0
+India,May,2021,96917178.0
+India,September,2020,28226586.0
+Indonesia,December,2020,2958937.0
+Indonesia,July,2021,13540738.0
+Iran,December,2020,7092799.0
+Iran,May,2021,13747177.0
+Iraq,July,2021,3364498.0
+Iraq,October,2020,1845347.0
+Ireland,January,2021,2472873.0
+Ireland,November,2020,576925.0
+Isle Of Man,April,2020,2578.0
+Isle Of Man,July,2021,24116.0
+Israel,January,2021,2190620.0
+Israel,September,2020,1340858.0
+Italy,January,2021,15665566.0
+Italy,November,2020,19956974.0
+Jamaica,May,2021,720885.0
+Jamaica,October,2020,134005.0
+Japan,December,2020,817372.0
+Japan,May,2021,2067338.0
+Jordan,March,2021,2431320.0
+Jordan,November,2020,2564225.0
+Kazakhstan,July,2020,768926.0
+Kazakhstan,July,2021,1570684.0
+Kenya,August,2020,244727.0
+Kenya,May,2021,310431.0
+Kuwait,July,2021,495670.0
+Kuwait,May,2020,298878.0
+Kyrgyzstan,July,2020,301302.0
+Kyrgyzstan,July,2021,569437.0
+Laos,April,2020,434.0
+Laos,July,2021,38010.0
+Latvia,December,2020,287004.0
+Latvia,January,2021,371646.0
+Lebanon,December,2020,1427441.0
+Lebanon,January,2021,2793205.0
+Lesotho,December,2020,31865.0
+Lesotho,March,2021,192359.0
+Liberia,July,2020,14867.0
+Liberia,July,2021,72628.0
+Libya,December,2020,876235.0
+Libya,July,2021,896489.0
+Liechtenstein,December,2020,6940.0
+Liechtenstein,January,2021,4065.0
+Lithuania,December,2020,1434119.0
+Lithuania,January,2021,1087125.0
+Luxembourg,April,2021,100398.0
+Luxembourg,November,2020,287781.0
+Macedonia,April,2021,577823.0
+Macedonia,December,2020,658660.0
+Madagascar,April,2021,162741.0
+Madagascar,July,2020,81911.0
+Malawi,August,2020,68329.0
+Malawi,February,2021,384937.0
+Malaysia,December,2020,471877.0
+Malaysia,July,2021,3445976.0
+Maldives,August,2020,71403.0
+Maldives,May,2021,497277.0
+Mali,December,2020,60118.0
+Mali,May,2021,137110.0
+Malta,March,2021,81720.0
+Malta,November,2020,61601.0
+Marshall Islands,April,2021,0.0
+Marshall Islands,February,2021,0.0
+Marshall Islands,January,2021,0.0
+Marshall Islands,July,2021,0.0
+Marshall Islands,June,2021,0.0
+Marshall Islands,March,2021,0.0
+Marshall Islands,May,2021,0.0
+Marshall Islands,November,2020,51.0
+Martinique,December,2020,173270.0
+Martinique,July,2021,418388.0
+Mauritania,December,2020,77756.0
+Mauritania,January,2021,40172.0
+Mauritius,April,2020,4662.0
+Mauritius,July,2021,28138.0
+Mayotte,December,2020,78933.0
+Mayotte,May,2021,501155.0
+Mexico,December,2020,6004673.0
+Mexico,July,2021,9743509.0
+Micronesia,April,2020,0.0
+Micronesia,August,2020,0.0
+Micronesia,December,2020,0.0
+Micronesia,February,2020,0.0
+Micronesia,January,2021,17.0
+Micronesia,July,2020,0.0
+Micronesia,June,2020,0.0
+Micronesia,March,2020,0.0
+Micronesia,May,2020,0.0
+Micronesia,November,2020,0.0
+Micronesia,October,2020,0.0
+Micronesia,September,2020,0.0
+Moldova,March,2021,631128.0
+Moldova,October,2020,513440.0
+Monaco,December,2020,2773.0
+Monaco,January,2021,6345.0
+Mongolia,December,2020,14687.0
+Mongolia,June,2021,706361.0
+Montenegro,December,2020,302055.0
+Montenegro,January,2021,270992.0
+Montserrat,April,2020,249.0
+Montserrat,February,2021,121.0
+Morocco,January,2021,549739.0
+Morocco,November,2020,1340516.0
+Mozambique,July,2021,540645.0
+Mozambique,October,2020,79899.0
+Myanmar,December,2020,562669.0
+Myanmar,July,2021,1598954.0
+Namibia,July,2021,688681.0
+Namibia,September,2020,95159.0
+Nepal,May,2021,3031582.0
+Nepal,October,2020,1071953.0
+Netherlands,January,2021,7482747.0
+Netherlands,November,2020,6712448.0
+New Caledonia,April,2020,293.0
+New Caledonia,July,2021,2159.0
+New Zealand,April,2020,18148.0
+New Zealand,March,2021,2336.0
+Nicaragua,July,2021,130584.0
+Nicaragua,September,2020,55221.0
+Niger,December,2020,29277.0
+Niger,January,2021,32121.0
+Nigeria,February,2021,635870.0
+Nigeria,July,2020,605598.0
+Norway,July,2021,1331082.0
+Norway,November,2020,337201.0
+Oman,July,2020,612405.0
+Oman,June,2021,723292.0
+Pakistan,April,2021,2284651.0
+Pakistan,June,2020,2555387.0
+Panama,December,2020,968019.0
+Panama,January,2021,1548240.0
+Papua New Guinea,April,2021,163829.0
+Papua New Guinea,September,2020,6166.0
+Paraguay,December,2020,767171.0
+Paraguay,June,2021,1556166.0
+Peru,April,2020,0.0
+Peru,April,2021,0.0
+Peru,August,2020,0.0
+Peru,December,2020,0.0
+Peru,February,2020,0.0
+Peru,February,2021,0.0
+Peru,January,2021,0.0
+Peru,July,2020,0.0
+Peru,July,2021,0.0
+Peru,June,2020,0.0
+Peru,June,2021,0.0
+Peru,March,2020,0.0
+Peru,March,2021,0.0
+Peru,May,2020,0.0
+Peru,May,2021,0.0
+Peru,November,2020,0.0
+Peru,October,2020,0.0
+Peru,September,2020,0.0
+Philippines,April,2021,4069977.0
+Philippines,August,2020,1836499.0
+Poland,March,2021,9840212.0
+Poland,November,2020,11187386.0
+Portugal,January,2021,4014750.0
+Portugal,November,2020,2223182.0
+Qatar,April,2021,589274.0
+Qatar,May,2020,782140.0
+Reunion,July,2021,67078.0
+Reunion,September,2020,32778.0
+Romania,April,2021,1813031.0
+Romania,November,2020,3009898.0
+Russia,December,2020,15857098.0
+Russia,January,2021,16652027.0
+Rwanda,July,2021,499389.0
+Rwanda,September,2020,56758.0
+Saint Barthelemy,December,2020,797.0
+Saint Barthelemy,July,2021,16640.0
+Saint Helena,April,2020,0.0
+Saint Helena,April,2021,13.0
+Saint Helena,August,2020,0.0
+Saint Helena,December,2020,0.0
+Saint Helena,February,2020,0.0
+Saint Helena,July,2020,0.0
+Saint Helena,June,2020,0.0
+Saint Helena,March,2020,0.0
+Saint Helena,May,2020,0.0
+Saint Helena,November,2020,0.0
+Saint Helena,October,2020,0.0
+Saint Helena,September,2020,0.0
+Saint Kitts And Nevis,April,2020,361.0
+Saint Kitts And Nevis,June,2021,5037.0
+Saint Lucia,February,2021,17342.0
+Saint Lucia,November,2020,3322.0
+Saint Martin,July,2021,29590.0
+Saint Martin,September,2020,3711.0
+Saint Pierre And Miquelon,February,2021,224.0
+Saint Pierre And Miquelon,September,2020,154.0
+Saint Vincent And The Grenadines,December,2020,489.0
+Saint Vincent And The Grenadines,February,2021,21490.0
+Samoa,March,2021,31.0
+Samoa,November,2020,16.0
+San Marino,March,2021,14349.0
+San Marino,May,2020,12470.0
+Sao Tome And Principe,February,2021,9004.0
+Sao Tome And Principe,June,2020,13780.0
+Saudi Arabia,July,2020,1633384.0
+Saudi Arabia,July,2021,336604.0
+Senegal,August,2020,119908.0
+Senegal,July,2021,173313.0
+Serbia,December,2020,3173052.0
+Serbia,March,2021,2208600.0
+Seychelles,July,2020,2389.0
+Seychelles,May,2021,55315.0
+Sierra Leone,December,2020,17060.0
+Sierra Leone,July,2021,58287.0
+Singapore,July,2021,23014.0
+Singapore,May,2020,548899.0
+Sint Maarten,August,2020,4963.0
+Sint Maarten,January,2021,3698.0
+Slovakia,January,2021,1504803.0
+Slovakia,November,2020,1520406.0
+Slovenia,January,2021,648355.0
+Slovenia,November,2020,626019.0
+Solomon Islands,December,2020,352.0
+Solomon Islands,January,2021,217.0
+Somalia,June,2020,55730.0
+Somalia,May,2021,226573.0
+South Africa,January,2021,5360711.0
+South Africa,July,2020,4371248.0
+South Korea,December,2020,371820.0
+South Korea,July,2021,447754.0
+South Sudan,March,2021,60734.0
+South Sudan,October,2020,45559.0
+Spain,February,2021,18099390.0
+Spain,November,2020,14721892.0
+Sri Lanka,December,2020,252816.0
+Sri Lanka,June,2021,990319.0
+State Of Palestine,April,2021,849488.0
+State Of Palestine,December,2020,719242.0
+Sudan,December,2020,240779.0
+Sudan,January,2021,190040.0
+Suriname,August,2020,25206.0
+Suriname,June,2021,115963.0
+Swaziland,August,2020,45404.0
+Swaziland,January,2021,130030.0
+Sweden,December,2020,5023373.0
+Sweden,January,2021,4925410.0
+Switzerland,January,2021,2782531.0
+Switzerland,November,2020,3117667.0
+Syria,December,2020,141441.0
+Syria,January,2021,173352.0
+Taiwan,April,2020,6882.0
+Taiwan,June,2021,160345.0
+Tajikistan,July,2021,7820.0
+Tajikistan,June,2020,47453.0
+Tanzania,August,2020,9455.0
+Tanzania,December,2020,9455.0
+Tanzania,July,2020,9455.0
+Tanzania,July,2021,11166.0
+Tanzania,October,2020,9455.0
+Thailand,April,2020,27633.0
+Thailand,July,2021,3318652.0
+Timor Leste,April,2020,315.0
+Timor Leste,May,2021,63463.0
+Togo,April,2021,70156.0
+Togo,November,2020,18415.0
+Trinidad And Tobago,June,2021,263392.0
+Trinidad And Tobago,September,2020,57374.0
+Tunisia,July,2021,2412364.0
+Tunisia,October,2020,996892.0
+Turkey,April,2021,14161004.0
+Turkey,December,2020,5757497.0
+Turks And Caicos Islands,August,2020,6616.0
+Turks And Caicos Islands,February,2021,8651.0
+UK,December,2020,32059035.0
+UK,January,2021,52555776.0
+USA,December,2020,201827749.0
+USA,January,2021,265578810.0
+Uganda,December,2020,34503.0
+Uganda,July,2021,610732.0
+Ukraine,April,2021,11845139.0
+Ukraine,December,2020,11330675.0
+United Arab Emirates,December,2020,636433.0
+United Arab Emirates,January,2021,778117.0
+Uruguay,December,2020,113355.0
+Uruguay,May,2021,919758.0
+Uzbekistan,July,2020,197303.0
+Uzbekistan,July,2021,122868.0
+Vanuatu,March,2021,48.0
+Vanuatu,November,2020,21.0
+Venezuela,June,2021,498861.0
+Venezuela,September,2020,308158.0
+Viet Nam,August,2020,12100.0
+Viet Nam,July,2021,1272574.0
+Wallis And Futuna Islands,December,2020,78.0
+Wallis And Futuna Islands,March,2021,5424.0
+Western Sahara,April,2020,108.0
+Western Sahara,January,2021,31.0
+Western Sahara,March,2021,31.0
+Western Sahara,May,2021,31.0
+Yemen,April,2021,69192.0
+Yemen,July,2020,12332.0
+Zambia,July,2020,35287.0
+Zambia,June,2021,424697.0
+Zimbabwe,August,2020,64092.0
+Zimbabwe,July,2021,688775.0
